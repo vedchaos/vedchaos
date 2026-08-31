@@ -28,51 +28,6 @@
 
 <br>
 
-```python
-class VedChaos:
-    """The architect of digital anarchy."""
-
-    def __init__(self):
-        self.name = "Ved Chaos"
-        self.role = "AI/ML Independent Developer"
-        self.location = "Bareilly, India 🇮🇳"
-        self.mission = "Build intelligence from beautiful chaos"
-        self.focus = [
-            "Autonomous AI Systems",
-            "MCP Servers & Tooling",
-            "LLM Orchestration",
-            "DevOps & Cloud Native",
-            "Agentic Workflows"
-        ]
-        self.chaos_level = "MAXIMUM 🔥"
-        self.order_level = "NONE 😈"
-        self.coffee_consumed = "∞"
-        self.sleep = "Optional"
-        self.bugs_introduced = "By design"
-        self.bugs_fixed = "Eventually"
-
-    def build(self):
-        return "Intelligence from chaos 🧠⚡"
-
-    def innovate(self):
-        while True:
-            self.build()
-            self.break_things()
-            self.fix_things()
-            self.repeat()
-
-    def status(self):
-        return {
-            "status": "🚀 Building the future",
-            "mood": "😈 Chaotic good",
-            "energy": "⚡ 100% (coffee powered)",
-            "focus": "🎯 Autonomous AI",
-            "availability": "🟢 Open to collabs"
-        }
-```
-
-<br>
-
 ### ⚡ Power Levels
 
 <div align="center">
