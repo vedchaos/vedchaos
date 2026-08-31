@@ -20,6 +20,14 @@
 
 ## 🧠 About Me
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=%24+whoami;Ved+Chaos+%E2%80%94+AI%2FML+Independent+Developer;%24+cat+~%2Fmission.txt;Build+intelligence+from+beautiful+chaos;%24+echo+%24CHAOS_LEVEL;MAXIMUM+%F0%9F%94%A5;%24+echo+%24ORDER_LEVEL;NONE+%F0%9F%98%88;%24+uptime;Always+online+%E2%9A%A1;%24+sudo+make+me+awesome;Permission+denied+%E2%80%94+already+awesome+%F0%9F%98%8E" alt="Terminal Typing" />
+
+</div>
+
+<br>
+
 ```python
 class VedChaos:
     """The architect of digital anarchy."""
@@ -40,6 +48,8 @@ class VedChaos:
         self.order_level = "NONE 😈"
         self.coffee_consumed = "∞"
         self.sleep = "Optional"
+        self.bugs_introduced = "By design"
+        self.bugs_fixed = "Eventually"
 
     def build(self):
         return "Intelligence from chaos 🧠⚡"
@@ -50,7 +60,48 @@ class VedChaos:
             self.break_things()
             self.fix_things()
             self.repeat()
+
+    def status(self):
+        return {
+            "status": "🚀 Building the future",
+            "mood": "😈 Chaotic good",
+            "energy": "⚡ 100% (coffee powered)",
+            "focus": "🎯 Autonomous AI",
+            "availability": "🟢 Open to collabs"
+        }
 ```
+
+<br>
+
+### ⚡ Power Levels
+
+<div align="center">
+
+| Skill | Level | Bar |
+|:---|:---:|:---|
+| 🤖 **AI/ML** | 95% | ██████████████████░ |
+| 🧠 **LLM Orchestration** | 90% | █████████████████░░ |
+| 🖥️ **MCP Servers** | 92% | ██████████████████░ |
+| ☁️ **DevOps** | 85% | █████████████████░░ |
+| 🔐 **Security** | 80% | ████████████████░░░ |
+| 📱 **Mobile Dev** | 75% | ███████████████░░░░ |
+| ☕ **Coffee Intake** | ∞ | ███████████████████ |
+
+</div>
+
+<br>
+
+### 🎭 My Vibe
+
+<div align="center">
+
+> **"I don't write bugs. I write features that haven't been discovered yet."** 😎
+
+> **"My code works. I don't know why. But it works."** 🤷‍♂️
+
+> **"If it's not broken, I'll break it. Then fix it better."** 🔧
+
+</div>
 
 ---
 
